@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luuk Kenselaar</h1>
 <h3 align="center">A passionate frontend developer from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luuk2016&label=Profile%20views&color=0e75b6&style=flat" alt="luuk2016" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luuk2016&show_icons=true&locale=en" alt="luuk2016" /></p>
-
-
-<p align="left"> <a href="https://twitter.com/lkenselaar" target="blank"><img src="https://img.shields.io/twitter/follow/lkenselaar?logo=twitter&style=for-the-badge" alt="lkenselaar" /></a> </p>
-
-- 💬 Ask me about **C#, PHP, Python, Web Development, Laravel**
-
-- 📫 How to reach me **luuk@luukkenselaar.nl**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lkenselaar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lkenselaar" height="30" width="40" /></a>
