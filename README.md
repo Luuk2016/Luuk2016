@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luuk Kenselaar</h1>
-<h3 align="center">A passionate frontend developer from The Netherlands</h3>
+<h3 align="center">A passionate Junior Developer from The Netherlands</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
